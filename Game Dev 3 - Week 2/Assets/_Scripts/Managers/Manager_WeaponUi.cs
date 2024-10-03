@@ -17,7 +17,6 @@ namespace GameDevWithMarco.Managers
         public Image gunSymbol;
 
 
-
         //The method has a parameter of type scp_GunsType_ScriptableObject in 
         //order to be versatile when we need to use it.
         public void AssignUI(GunsType_ScriptableObject currentSO)
