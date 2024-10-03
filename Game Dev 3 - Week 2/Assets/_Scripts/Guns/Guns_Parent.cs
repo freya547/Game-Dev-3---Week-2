@@ -5,7 +5,6 @@ using DG.Tweening;
 
 namespace GameDevWithMarco.Guns
 {
-
     public abstract class Guns_Parent : MonoBehaviour
     {
         /// <summary>
