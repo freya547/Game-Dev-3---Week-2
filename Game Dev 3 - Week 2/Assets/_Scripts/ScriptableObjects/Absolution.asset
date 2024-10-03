@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b8694826889e894c854e6033a4ef480, type: 3}
   m_Name: Absolution
   m_EditorClassIdentifier: 
-  gunName: 
-  gunSubTitle: 
+  gunName: Absolution
+  gunSubTitle: Bow Before Me
   gunDescription: 
-  gunFireSpeed: 
-  gunPrefab: {fileID: 0}
+  gunFireSpeed: 10
+  gunPrefab: {fileID: 9028580339747694192, guid: f126236b92cb01e4e81036f367de0a87, type: 3}
   gunSymbol: {fileID: 0}
